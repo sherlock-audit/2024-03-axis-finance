@@ -1,0 +1,12 @@
+[submodule "moonraker/lib/forge-std"]
+	path = moonraker/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "moonraker/lib/solady"]
+	path = moonraker/lib/solady
+	url = https://github.com/vectorized/solady
+[submodule "moonraker/lib/solmate"]
+	path = moonraker/lib/solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "moonraker/lib/prb-math"]
+	path = moonraker/lib/prb-math
+	url = https://github.com/PaulRBerg/prb-math
